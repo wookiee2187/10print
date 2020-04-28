@@ -1,8 +1,10 @@
 /*
-  one possible implemenation of the 10print.org algorithm written in JavaScript
+  I wanted to talk about the dopamine rush that social media can give people
+  and how it can vanish in a blink. Also, somehow wanted to do something
+  related to the isolation in quarantine. Still thinking of the idea - work
+  in progress.
 */
 
-//const w = process.stdout.columns
 
 const FgBlack = '\x1b[30m'
 const FgRed = '\x1b[31m'
